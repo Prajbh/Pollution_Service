@@ -1,8 +1,8 @@
 # Pollution_Service
 
-To run :
-mvn clean install \n
-docker build . -t pollution \n
+To run : <br />
+mvn clean install <br />
+docker build . -t pollution <br />
 docker run -p 9000:9000 pollution
 
 Check for health
